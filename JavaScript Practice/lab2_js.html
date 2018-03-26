@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="lab2_js_data.js"></script>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+<h1 id="title"></h1>
+<!--<p id="thirdMovie">The third movie is: <p>-->
+<script>
+    //Q1.1: Append a <title> element to the <head> with your name.
+    // e.g. add <title>Lab 2: Licia</title> to the <head>
+    document.head.appendChild(document.createElement("title")).appendChild(document.createTextNode("Lab2: June Park"));
+
+    // Before adding the <title> element, your browser toolbar will display the html filename
+    // After appending the <title> element, the name on your browser tab should be updated
+
+    document.getElementById('title').innerHTML='Lab 2: June, Soobum, and Akio';
+    //Q1.2 We have provided a <h1>element in the <body> with id=“title”.
+    // You can see it in your html or by inspecting in the developer mode(figure 3).
+    // Modify the <h1 id="title"></h1> element and use it to display your  (and your partner's) name.
+
+
+   //Q2.2 Display the title of the first movie in your console (console.log)
+    console.log(mvData[0]["Title"]);
+
+    //Q2.3 Display the title of the second movie in your web page as a p element.
+    document.body.appendChild(document.createElement('p')).innerHTML = 'second movie: ' + mvData[1]["Title"];
+
+    //Q2.4 Create a div element to display information of the third movie. You will display its
+    // title as a <h4> element, and worldwide gross, production budget and major genre as individual <p> elements
+
+    var divelem = document.createElement('div');
+    divelem.id = 'thirdMovie';
+    var h4elem = document.createElement('h4');
+    h4elem.innerHTML = 'Third movie: ' + mvData[2]["Title"];;
+    document.body.appendChild(divelem).appendChild(h4elem);
+    document.body.appendChild(divelem).appendChild(document.createElement('p')).innerHTML = 'Worldwide gross: '+mvData[2]["Worldwide Gross"];
+    document.body.appendChild(divelem).appendChild(document.createElement('p')).innerHTML = 'Production Budget: '+mvData[2]["Production Budget"];
+    document.body.appendChild(divelem).appendChild(document.createElement('p')).innerHTML = 'Major Genre: '+mvData[2]["Major Genre"];
+
+    //Q3.1 add a new field to the movie dataset called revenue, which is equal to the difference
+    // between world wide gross and production budget.
+
+    for (i = 0; i< mvData.length; i++) {
+        mvData[i].revenue = mvData[i]["Worldwide Gross"] - mvData[i]["Production Budget"];
+        // console.log(mvData[i])
+    }
+
+    //Q3.2 display the revenue of your last movie as a <p> element.
+    // e.g. the production budget of the last movie is xxxxx.
+    document.body.appendChild(document.createElement('p')).innerHTML = 'production budget last movie: '+mvData[mvData.length-1]["revenue"];
+
+    //Q3.3 Sort the movie dataset by revenue (both ascending and descending are fine)
+    mvData.sort(function(a,b){return b.revenue-a.revenue});
+    // for (i = 0; i< mvData.length; i++) {
+    //     console.log(mvData[i])
+    // }
+    
+    //Q3.4 Display movies with the top 10 revenue in an ordered list.
+    var olrev = document.createElement('ol');
+    olrev.id = 'top10';
+    var h3elem = document.createElement('h3');
+    h3elem.innerHTML = 'Top 10 revenue';
+    document.body.appendChild(olrev).appendChild(h3elem);
+    for (i = 0; i < 10; i++) {
+        document.body.appendChild(olrev).appendChild(document.createElement("LI")).innerHTML = mvData[i]["Title"] + ': ' + mvData[i]["revenue"];
+
+    }
+
+
+    //Q3.5 Count the number of movies within each genre. For movies without a genre, you can put them in the null genre.
+
+    var arrgenre = {'null': 0};
+ 
+    for (i = 0; i< mvData.length; i++) {
+        g = mvData[i]['Major Genre'];
+        if (g in arrgenre) {
+            arrgenre[g] += 1;
+        } else if (g == "") {
+            arrgenre["null"] += 1;
+        }
+        else {
+            arrgenre[g] = 1;
+        }
+    }
+    console.log(arrgenre);
+
+
+    //Q3.6 Display the genres and their counts in an unordered list.
+    var ulelem = document.createElement('UL');
+    ulelem.id = 'genrect';
+    var h3elem2 = document.createElement('h3');
+    h3elem2.innerHTML = 'Genre count';
+    document.body.appendChild(ulelem).appendChild(h3elem2);
+    for (key in arrgenre) {
+        document.body.appendChild(ulelem).appendChild(document.createElement("LI")).innerHTML = key + ': ' + arrgenre[key];
+
+    }
+
+
+    //Q4.1 Create a table to display the information of the first movie.
+    var tablefirst = document.createElement('table');
+    var tfbody = document.createElement('tbody');
+    var row1 = "<tr>";
+    document.body.appendChild(tablefirst);
+
+
+    // for (i = 0;i<mvData[0].size;i++) {
+    //     // document.body.appendChild(tablefirst).appendChild(tfbody).appendChild(row1).appendChild(createElement("th")).innerHTML(mvData[0][i]);
+    //     console.log(mvData[0]);
+    // }
+    var table = document.createElement('table');
+    table.id = 'movietable'
+
+    var row1 = document.createElement("tr");
+    var row2 = document.createElement("tr");
+     
+    for (key in mvData[0]) {
+        var th = document.createElement('th');
+        th.appendChild(document.createTextNode(key));
+        row1.appendChild(th);
+
+        var td = document.createElement('td');
+        td.appendChild(document.createTextNode(mvData[0][key]));
+        row2.appendChild(td);
+    }
+    document.body.appendChild(table).appendChild(row1);
+    document.body.appendChild(table).appendChild(row2);
+
+    //Q4.2 Create a random number generator.
+    // paste your random integer generator function here:
+
+    var randNum = Math.floor(Math.random() * mvData.length);
+
+    //Q4.3 Write a function to update the table with a random movie.
+    // When you call this function, information in your table should change.
+    
+    function replacemovie() {
+        var randNum2 = Math.floor(Math.random() * mvData.length);
+        table.deleteRow(1);
+        var row_n = document.createElement('tr');
+        for (key in mvData[randNum]) {
+            var td = document.createElement('td');
+            td.appendChild(document.createTextNode(mvData[randNum2][key]));
+            row_n.appendChild(td);
+        }
+        table.appendChild(row_n);
+    }
+
+    // replacemovie();
+
+
+    //Q4.4 add button to call the random movie update function
+    var updatebutton = document.createElement('button');
+    updatebutton.innerHTML = 'Update to a random movie statistic';
+    updatebutton.addEventListener('click',replacemovie);
+    document.body.appendChild(updatebutton);
+
+    //Q5.1 create a <select> element that includes worldwide gross, production budget, revenue, and major genre as options.
+
+    var selectdiv = document.createElement('div');
+    //“worldwide gross”, “production budget”, “revenue”, and “major genre” as options.
+    var selectelem = document.createElement('select');
+    selectelem.id = 'selectelem';
+    var opt1 = document.createElement('option');
+    opt1.innerHTML = 'Worldwide Gross';
+    opt1.value = opt1.innerHTML
+    var opt2 = document.createElement('option');
+    opt2.innerHTML = 'Production Budget';
+    opt2.value = opt2.innerHTML;
+    var opt3 = document.createElement('option');
+    opt3.innerHTML = 'revenue';
+    opt3.value = opt3.innerHTML;
+    var opt4 = document.createElement('option');
+    opt4.innerHTML = 'Major Genre';
+    opt4.value = opt4.innerHTML;
+
+    selectelem.appendChild(opt1);
+    selectelem.appendChild(opt2);
+    selectelem.appendChild(opt3);
+    selectelem.appendChild(opt4);
+
+
+
+    document.body.appendChild(selectdiv).appendChild(selectelem);
+
+
+    // Q5.2 Create a new table with 2 columns and 6 rows. The first column will display the titles of the first 5 movies,
+    // the second column will display the information that is selected by the drop down list.
+
+
+    curropt = opt1;
+    var body = document.getElementsByTagName('body')[0];
+    var tbl = document.createElement('table');
+    tbl.style.width = '100%';
+    tbl.setAttribute('border', '1');
+    var tbdy = document.createElement('tbody');
+    var trhead = document.createElement('tr');
+    trhead.appendChild(document.createElement('th')).appendChild(document.createTextNode('Title'));
+    var trheadval = document.createElement('th');
+    trheadval.id = 'headval';
+    var vheader = trheadval.appendChild(document.createTextNode(curropt.value));
+    trhead.appendChild(trheadval);
+    tbdy.appendChild(trhead);
+    for (var i = 0; i < 5; i++) {
+        var tr = document.createElement('tr');
+        var td1 = document.createElement('td');
+        td1.id = 'mv' + i;
+        var td2 = document.createElement('td');
+        td2.id = 'val' + i;
+        td1.appendChild(document.createTextNode(mvData[i]['Title']));
+        tr.appendChild(td1);
+        td2.appendChild(document.createTextNode(mvData[i][curropt.value]));
+        tr.appendChild(td2);
+        tbdy.appendChild(tr);
+    }
+
+    tbl.appendChild(tbdy);
+    document.body.appendChild(tbl);
+
+    //Q5.3 Update the table when the selection changes.
+
+    function updateselection() {
+        optval = document.getElementById('selectelem').value;
+        document.getElementById('headval').innerHTML = optval;
+        for (i=0;i<5;i++) {
+            document.getElementById('val'+i).innerHTML = mvData[i][optval];
+        }
+        console.log(optval)
+    }
+
+    selectelem.onchange = updateselection;
+
+
+    //Q5.4 (BONUS) Sorted list
+    // For this question, you can copy your update function from above below and change it to sort before display.
+    // If you prefer, you could instead write a new update function that calls your old one, and replace the event
+    // handler in your button with this new function
+
+
+
+</script>
+</body>
+</html>

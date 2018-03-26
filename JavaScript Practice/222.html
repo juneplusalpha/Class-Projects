@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="lab2_js_data.js"></script>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+<h1 id="title"></h1>
+<p id="thirdMovie">The third movie is: <p>
+<script>
+    //Q1.1: Append a <title> element to the <head> with your name.
+    document.head.appendChild(document.createElement("title")).appendChild(document.createTextNode("Lab2: June Park"));
+    // e.g. add <title>Lab 2: Licia</title> to the <head>
+    // Before adding the <title> element, your browser toolbar will display the html filename
+    // After appending the <title> element, the name on your browser tab should be updated
+
+
+    //Q1.2 We have provided a <h1>element in the <body> with id=“title”.
+    // You can see it in your html or by inspecting in the developer mode(figure 3).
+    // Modify the <h1 id="title"></h1> element and use it to display your  (and your partner's) name.
+    document.getElementById('title').innerHTML='Lab 2: June, Soobum, and Akio';
+
+    //Q2.2 Display the title of the first movie in your console (console.log)
+    console.log(mvData[0]["Title"]);
+
+    //Q2.3 Display the title of the second movie in your web page as a p element.
+    document.body.appendChild(document.createElement('p')).innerHTML = mvData[1]["Title"];
+
+    //Q2.4 Create a div element to display information of the third movie. You will display its
+    // title as a <h4> element, and worldwide gross, production budget and major genre as individual <p> elements
+    var divelem = document.createElement('div');
+    document.body.appendChild(divelem).appendChild(document.createElement('h4').innerHTML = 'hiahih'
+    //Q3.1 add a new field to the movie dataset called revenue, which is equal to the difference
+    // between world wide gross and production budget.
+
+
+    //Q3.2 display the revenue of your last movie as a <p> element.
+    // e.g. the production budget of the last movie is xxxxx.
+
+
+    //Q3.3 Sort the movie dataset by revenue (both ascending and descending are fine)
+
+    
+    //Q3.4 Display movies with the top 10 revenue in an ordered list.
+
+
+    //Q3.5 Count the number of movies within each genre. For movies without a genre, you can put them in the null genre.
+
+
+    //Q3.6 Display the genres and their counts in an unordered list.
+
+
+    //Q4.1 Create a table to display the information of the first movie.
+
+
+    //Q4.2 Create a random number generator.
+    // paste your random integer generator function here:
+
+
+    //Q4.3 Write a function to update the table with a random movie.
+    // When you call this function, information in your table should change.
+
+
+    //Q4.4 add button to call the random movie update function
+
+
+    //Q5.1 create a <select> element that includes worldwide gross, production budget, revenue, and major genre as options.
+
+
+    //Q5.2 Create a new table with 2 columns and 6 rows. The first column will display the titles of the first 5 movies,
+    // the second column will display the information that is selected by the drop down list.
+
+
+    //Q5.3 Update the table when the selection changes.
+
+
+    //Q5.4 (BONUS) Sorted list
+    // For this question, you can copy your update function from above below and change it to sort before display.
+    // If you prefer, you could instead write a new update function that calls your old one, and replace the event
+    // handler in your button with this new function
+
+</script>
+</body>
+</html>
