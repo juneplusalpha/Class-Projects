@@ -1,0 +1,1002 @@
+[
+  {
+    "Title": "Big Daddy",
+    "Production Budget": 30000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Comedy",
+    "Director": "Dennis Dugan",
+    "Rotten Tomatoes Rating": 40,
+    "IMDB Rating": 4.7,
+    "IMDB Votes": 48
+  },
+  {
+    "Title": "Heist",
+    "Production Budget": 35000000,
+    "Distributor": "New Line",
+    "Major Genre": "Action",
+    "Director": "David Mamet",
+    "Rotten Tomatoes Rating": 66,
+    "IMDB Rating": 3.2,
+    "IMDB Votes": 77
+  },
+  {
+    "Title": "Dracula",
+    "Production Budget": 40000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Horror",
+    "Director": "Francis Ford Coppola",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 6.4,
+    "IMDB Votes": 136
+  },
+  {
+    "Title": "Mr. And Mrs. Smith",
+    "Production Budget": 110000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Action",
+    "Director": "Doug Liman",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 4.7,
+    "IMDB Votes": 189
+  },
+  {
+    "Title": "Ghost Town",
+    "Production Budget": 20000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Romantic Comedy",
+    "Director": "David Koepp",
+    "Rotten Tomatoes Rating": 85,
+    "IMDB Rating": 4.7,
+    "IMDB Votes": 310
+  },
+  {
+    "Title": "Defiance",
+    "Production Budget": 50000000,
+    "Distributor": "Paramount Vantage",
+    "Major Genre": "Drama",
+    "Director": "Edward Zwick",
+    "Rotten Tomatoes Rating": 56,
+    "IMDB Rating": 5.9,
+    "IMDB Votes": 362
+  },
+  {
+    "Title": "Swingers",
+    "Production Budget": 200000,
+    "Distributor": "Miramax",
+    "Major Genre": "Comedy",
+    "Director": "Doug Liman",
+    "Rotten Tomatoes Rating": 86,
+    "IMDB Rating": 6.2,
+    "IMDB Votes": 431
+  },
+  {
+    "Title": "The Nutcracker",
+    "Production Budget": 19000000,
+    "Distributor": "",
+    "Major Genre": "",
+    "Director": "Emile Ardolino",
+    "Rotten Tomatoes Rating": 50,
+    "IMDB Rating": 5.2,
+    "IMDB Votes": 561
+  },
+  {
+    "Title": "No Looking Back",
+    "Production Budget": 5000000,
+    "Distributor": "Gramercy",
+    "Major Genre": "",
+    "Director": "Edward Burns",
+    "Rotten Tomatoes Rating": 38,
+    "IMDB Rating": 5.7,
+    "IMDB Votes": 1145
+  },
+  {
+    "Title": "The Greatest Story Ever Told",
+    "Production Budget": 20000000,
+    "Distributor": "MGM",
+    "Major Genre": "Drama",
+    "Director": "David Lean",
+    "Rotten Tomatoes Rating": 39,
+    "IMDB Rating": 6.3,
+    "IMDB Votes": 3300
+  },
+  {
+    "Title": "The Brothers McMullen",
+    "Production Budget": 25000,
+    "Distributor": "Fox Searchlight",
+    "Major Genre": "Drama",
+    "Director": "Edward Burns",
+    "Rotten Tomatoes Rating": 91,
+    "IMDB Rating": 6.4,
+    "IMDB Votes": 4365
+  },
+  {
+    "Title": "Set It Off",
+    "Production Budget": 9000000,
+    "Distributor": "New Line",
+    "Major Genre": "Drama",
+    "Director": "F. Gary Gray",
+    "Rotten Tomatoes Rating": 61,
+    "IMDB Rating": 6.3,
+    "IMDB Votes": 4570
+  },
+  {
+    "Title": "Gentleman's Agreement",
+    "Production Budget": 2000000,
+    "Distributor": "",
+    "Major Genre": "",
+    "Director": "Elia Kazan",
+    "Rotten Tomatoes Rating": 83,
+    "IMDB Rating": 7.4,
+    "IMDB Votes": 4637
+  },
+  {
+    "Title": "My Favorite Martian",
+    "Production Budget": 60000000,
+    "Distributor": "Walt Disney Pictures",
+    "Major Genre": "Comedy",
+    "Director": "Donald Petrie",
+    "Rotten Tomatoes Rating": 13,
+    "IMDB Rating": 4.5,
+    "IMDB Votes": 4918
+  },
+  {
+    "Title": "An American Carol",
+    "Production Budget": 20000000,
+    "Distributor": "Vivendi Entertainment",
+    "Major Genre": "Comedy",
+    "Director": "David Zucker",
+    "Rotten Tomatoes Rating": 12,
+    "IMDB Rating": 4.5,
+    "IMDB Votes": 6000
+  },
+  {
+    "Title": "First Daughter",
+    "Production Budget": 30000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Romantic Comedy",
+    "Director": "Forest Whitaker",
+    "Rotten Tomatoes Rating": 8,
+    "IMDB Rating": 4.7,
+    "IMDB Votes": 6839
+  },
+  {
+    "Title": "Welcome to Mooseport",
+    "Production Budget": 26000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Comedy",
+    "Director": "Donald Petrie",
+    "Rotten Tomatoes Rating": 13,
+    "IMDB Rating": 5.2,
+    "IMDB Votes": 6907
+  },
+  {
+    "Title": "The Cotton Club",
+    "Production Budget": 48000000,
+    "Distributor": "Orion Pictures",
+    "Major Genre": "Drama",
+    "Director": "Francis Ford Coppola",
+    "Rotten Tomatoes Rating": 74,
+    "IMDB Rating": 6.3,
+    "IMDB Votes": 6940
+  },
+  {
+    "Title": "She's the One",
+    "Production Budget": 3500000,
+    "Distributor": "Fox Searchlight",
+    "Major Genre": "Romantic Comedy",
+    "Director": "Edward Burns",
+    "Rotten Tomatoes Rating": 60,
+    "IMDB Rating": 6,
+    "IMDB Votes": 8159
+  },
+  {
+    "Title": "Mystic Pizza",
+    "Production Budget": 6000000,
+    "Distributor": "Samuel Goldwyn Films",
+    "Major Genre": "Comedy",
+    "Director": "Donald Petrie",
+    "Rotten Tomatoes Rating": 82,
+    "IMDB Rating": 5.9,
+    "IMDB Votes": 8413
+  },
+  {
+    "Title": "Flirting with Disaster",
+    "Production Budget": 7000000,
+    "Distributor": "Miramax",
+    "Major Genre": "Comedy",
+    "Director": "David O. Russell",
+    "Rotten Tomatoes Rating": 86,
+    "IMDB Rating": 6.7,
+    "IMDB Votes": 8474
+  },
+  {
+    "Title": "The Road to El Dorado",
+    "Production Budget": 95000000,
+    "Distributor": "Dreamworks SKG",
+    "Major Genre": "Adventure",
+    "Director": "David Silverman",
+    "Rotten Tomatoes Rating": 49,
+    "IMDB Rating": 6.4,
+    "IMDB Votes": 8876
+  },
+  {
+    "Title": "Hope Floats",
+    "Production Budget": 30000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Drama",
+    "Director": "Forest Whitaker",
+    "Rotten Tomatoes Rating": 23,
+    "IMDB Rating": 5.3,
+    "IMDB Votes": 9168
+  },
+  {
+    "Title": "Anacondas: The Hunt for the Blood Orchid",
+    "Production Budget": 25000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Horror",
+    "Director": "Dwight H. Little",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 4.3,
+    "IMDB Votes": 9565
+  },
+  {
+    "Title": "Pollock",
+    "Production Budget": 6000000,
+    "Distributor": "Sony Pictures Classics",
+    "Major Genre": "Drama",
+    "Director": "Ed Harris",
+    "Rotten Tomatoes Rating": 82,
+    "IMDB Rating": 7.1,
+    "IMDB Votes": 9669
+  },
+  {
+    "Title": "Suspect Zero",
+    "Production Budget": 27000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "E. Elias Merhige",
+    "Rotten Tomatoes Rating": 18,
+    "IMDB Rating": 5.8,
+    "IMDB Votes": 9804
+  },
+  {
+    "Title": "Whiteout",
+    "Production Budget": 35000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "Dominic Sena",
+    "Rotten Tomatoes Rating": 7,
+    "IMDB Rating": 5.3,
+    "IMDB Votes": 10044
+  },
+  {
+    "Title": "My Boss's Daughter",
+    "Production Budget": 14000000,
+    "Distributor": "Miramax/Dimension",
+    "Major Genre": "Romantic Comedy",
+    "Director": "David Zucker",
+    "Rotten Tomatoes Rating": 9,
+    "IMDB Rating": 4.3,
+    "IMDB Votes": 10919
+  },
+  {
+    "Title": "Halloween 4: The Return of Michael Myers",
+    "Production Budget": 5000000,
+    "Distributor": "Universal",
+    "Major Genre": "Horror",
+    "Director": "Dwight H. Little",
+    "Rotten Tomatoes Rating": 23,
+    "IMDB Rating": 5.6,
+    "IMDB Votes": 11079
+  },
+  {
+    "Title": "What a Girl Wants",
+    "Production Budget": 25000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Comedy",
+    "Director": "Dennie Gordon",
+    "Rotten Tomatoes Rating": 34,
+    "IMDB Rating": 5.7,
+    "IMDB Votes": 12561
+  },
+  {
+    "Title": "Ri¢hie Ri¢h",
+    "Production Budget": 40000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Comedy",
+    "Director": "Donald Petrie",
+    "Rotten Tomatoes Rating": 25,
+    "IMDB Rating": 4.7,
+    "IMDB Votes": 12687
+  },
+  {
+    "Title": "Antwone Fisher",
+    "Production Budget": 12500000,
+    "Distributor": "Fox Searchlight",
+    "Major Genre": "Drama",
+    "Director": "Denzel Washington",
+    "Rotten Tomatoes Rating": 79,
+    "IMDB Rating": 7.3,
+    "IMDB Votes": 13258
+  },
+  {
+    "Title": "Just My Luck",
+    "Production Budget": 28000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Romantic Comedy",
+    "Director": "Donald Petrie",
+    "Rotten Tomatoes Rating": 13,
+    "IMDB Rating": 5,
+    "IMDB Votes": 13368
+  },
+  {
+    "Title": "The Land Before Time",
+    "Production Budget": 12300000,
+    "Distributor": "Universal",
+    "Major Genre": "Adventure",
+    "Director": "Don Bluth",
+    "Rotten Tomatoes Rating": 71,
+    "IMDB Rating": 6.9,
+    "IMDB Votes": 14017
+  },
+  {
+    "Title": "Whip It",
+    "Production Budget": 15000000,
+    "Distributor": "Fox Searchlight",
+    "Major Genre": "Comedy",
+    "Director": "Drew Barrymore",
+    "Rotten Tomatoes Rating": 84,
+    "IMDB Rating": 7.1,
+    "IMDB Votes": 14068
+  },
+  {
+    "Title": "The Great Debaters",
+    "Production Budget": 15000000,
+    "Distributor": "Weinstein Co.",
+    "Major Genre": "Drama",
+    "Director": "Denzel Washington",
+    "Rotten Tomatoes Rating": 79,
+    "IMDB Rating": 7.6,
+    "IMDB Votes": 14530
+  },
+  {
+    "Title": "A Man Apart",
+    "Production Budget": 36000000,
+    "Distributor": "New Line",
+    "Major Genre": "Action",
+    "Director": "F. Gary Gray",
+    "Rotten Tomatoes Rating": 11,
+    "IMDB Rating": 5.7,
+    "IMDB Votes": 14953
+  },
+  {
+    "Title": "A Perfect Getaway",
+    "Production Budget": 14000000,
+    "Distributor": "Universal",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "David Twohy",
+    "Rotten Tomatoes Rating": 60,
+    "IMDB Rating": 6.5,
+    "IMDB Votes": 16324
+  },
+  {
+    "Title": "Anastasia",
+    "Production Budget": 53000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Musical",
+    "Director": "Don Bluth",
+    "Rotten Tomatoes Rating": 85,
+    "IMDB Rating": 6.6,
+    "IMDB Votes": 16513
+  },
+  {
+    "Title": "Scott Pilgrim vs. The World",
+    "Production Budget": 85000000,
+    "Distributor": "Universal",
+    "Major Genre": "Comedy",
+    "Director": "Edgar Wright",
+    "Rotten Tomatoes Rating": 81,
+    "IMDB Rating": 8.1,
+    "IMDB Votes": 17461
+  },
+  {
+    "Title": "The Benchwarmers",
+    "Production Budget": 35000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Comedy",
+    "Director": "Dennis Dugan",
+    "Rotten Tomatoes Rating": 12,
+    "IMDB Rating": 5.4,
+    "IMDB Votes": 17824
+  },
+  {
+    "Title": "Shadow of the Vampire",
+    "Production Budget": 8000000,
+    "Distributor": "Lionsgate",
+    "Major Genre": "Drama",
+    "Director": "E. Elias Merhige",
+    "Rotten Tomatoes Rating": 81,
+    "IMDB Rating": 6.8,
+    "IMDB Votes": 18221
+  },
+  {
+    "Title": "Joe Dirt",
+    "Production Budget": 16000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Comedy",
+    "Director": "Dennie Gordon",
+    "Rotten Tomatoes Rating": 11,
+    "IMDB Rating": 5.4,
+    "IMDB Votes": 18666
+  },
+  {
+    "Title": "Saving Silverman",
+    "Production Budget": 22000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Comedy",
+    "Director": "Dennis Dugan",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 5.6,
+    "IMDB Votes": 18748
+  },
+  {
+    "Title": "Courage Under Fire",
+    "Production Budget": 46000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Drama",
+    "Director": "Edward Zwick",
+    "Rotten Tomatoes Rating": 85,
+    "IMDB Rating": 6.6,
+    "IMDB Votes": 19682
+  },
+  {
+    "Title": "The Final Destination",
+    "Production Budget": 40000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Horror",
+    "Director": "David R. Ellis",
+    "Rotten Tomatoes Rating": 27,
+    "IMDB Rating": 4.9,
+    "IMDB Votes": 20319
+  },
+  {
+    "Title": "Friday",
+    "Production Budget": 3500000,
+    "Distributor": "New Line",
+    "Major Genre": "Comedy",
+    "Director": "F. Gary Gray",
+    "Rotten Tomatoes Rating": 77,
+    "IMDB Rating": 7,
+    "IMDB Votes": 21623
+  },
+  {
+    "Title": "Titan A.E.",
+    "Production Budget": 75000000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Adventure",
+    "Director": "Don Bluth",
+    "Rotten Tomatoes Rating": 51,
+    "IMDB Rating": 6.4,
+    "IMDB Votes": 22286
+  },
+  {
+    "Title": "Appaloosa",
+    "Production Budget": 20000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Western",
+    "Director": "Ed Harris",
+    "Rotten Tomatoes Rating": 76,
+    "IMDB Rating": 6.8,
+    "IMDB Votes": 22836
+  },
+  {
+    "Title": "Bobby",
+    "Production Budget": 14000000,
+    "Distributor": "MGM",
+    "Major Genre": "Drama",
+    "Director": "Emilio Estevez",
+    "Rotten Tomatoes Rating": 46,
+    "IMDB Rating": 7.1,
+    "IMDB Votes": 23262
+  },
+  {
+    "Title": "Blindness",
+    "Production Budget": 25000000,
+    "Distributor": "Miramax",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "Fernando Meirelles",
+    "Rotten Tomatoes Rating": 42,
+    "IMDB Rating": 6.6,
+    "IMDB Votes": 25508
+  },
+  {
+    "Title": "The Naked Gun 2?: The Smell of Fear",
+    "Production Budget": 23000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Comedy",
+    "Director": "David Zucker",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 6.6,
+    "IMDB Votes": 26384
+  },
+  {
+    "Title": "Eraserhead",
+    "Production Budget": 100000,
+    "Distributor": "",
+    "Major Genre": "",
+    "Director": "David Lynch",
+    "Rotten Tomatoes Rating": 90,
+    "IMDB Rating": 7.4,
+    "IMDB Votes": 26595
+  },
+  {
+    "Title": "A Stir of Echoes",
+    "Production Budget": 12000000,
+    "Distributor": "Artisan",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "David Koepp",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 7.1,
+    "IMDB Votes": 26752
+  },
+  {
+    "Title": "Doctor Zhivago",
+    "Production Budget": 11000000,
+    "Distributor": "MGM",
+    "Major Genre": "Drama",
+    "Director": "David Lean",
+    "Rotten Tomatoes Rating": 84,
+    "IMDB Rating": 8,
+    "IMDB Votes": 27671
+  },
+  {
+    "Title": "Cabin Fever",
+    "Production Budget": 1500000,
+    "Distributor": "Lionsgate",
+    "Major Genre": "Horror",
+    "Director": "Eli Roth",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 5.4,
+    "IMDB Votes": 28417
+  },
+  {
+    "Title": "Madagascar: Escape 2 Africa",
+    "Production Budget": 150000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Comedy",
+    "Director": "Eric Darnell",
+    "Rotten Tomatoes Rating": 64,
+    "IMDB Rating": 6.8,
+    "IMDB Votes": 30285
+  },
+  {
+    "Title": "Hostel: Part II",
+    "Production Budget": 7500000,
+    "Distributor": "Lionsgate",
+    "Major Genre": "Horror",
+    "Director": "Eli Roth",
+    "Rotten Tomatoes Rating": 45,
+    "IMDB Rating": 5.4,
+    "IMDB Votes": 31511
+  },
+  {
+    "Title": "Be Cool",
+    "Production Budget": 75000000,
+    "Distributor": "MGM",
+    "Major Genre": "Comedy",
+    "Director": "F. Gary Gray",
+    "Rotten Tomatoes Rating": 30,
+    "IMDB Rating": 5.6,
+    "IMDB Votes": 32082
+  },
+  {
+    "Title": "Cellular",
+    "Production Budget": 45000000,
+    "Distributor": "New Line",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "David R. Ellis",
+    "Rotten Tomatoes Rating": 54,
+    "IMDB Rating": 6.5,
+    "IMDB Votes": 32534
+  },
+  {
+    "Title": "The Conversation",
+    "Production Budget": 1600000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "Francis Ford Coppola",
+    "Rotten Tomatoes Rating": 98,
+    "IMDB Rating": 8.1,
+    "IMDB Votes": 33005
+  },
+  {
+    "Title": "A Streetcar Named Desire",
+    "Production Budget": 1800000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "",
+    "Director": "Elia Kazan",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 8.1,
+    "IMDB Votes": 33781
+  },
+  {
+    "Title": "How to Lose a Guy in 10 Days",
+    "Production Budget": 50000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Romantic Comedy",
+    "Director": "Donald Petrie",
+    "Rotten Tomatoes Rating": 43,
+    "IMDB Rating": 6.1,
+    "IMDB Votes": 33866
+  },
+  {
+    "Title": "Final Destination 2",
+    "Production Budget": 26000000,
+    "Distributor": "New Line",
+    "Major Genre": "Horror",
+    "Director": "David R. Ellis",
+    "Rotten Tomatoes Rating": 47,
+    "IMDB Rating": 6.4,
+    "IMDB Votes": 35737
+  },
+  {
+    "Title": "The Straight Story",
+    "Production Budget": 10000000,
+    "Distributor": "Walt Disney Pictures",
+    "Major Genre": "Drama",
+    "Director": "David Lynch",
+    "Rotten Tomatoes Rating": 95,
+    "IMDB Rating": 8,
+    "IMDB Votes": 36265
+  },
+  {
+    "Title": "Dune",
+    "Production Budget": 45000000,
+    "Distributor": "Universal",
+    "Major Genre": "Action",
+    "Director": "David Lynch",
+    "Rotten Tomatoes Rating": 62,
+    "IMDB Rating": 6.5,
+    "IMDB Votes": 38489
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Production Budget": 40000000,
+    "Distributor": "Weinstein/Dimension",
+    "Major Genre": "Comedy",
+    "Director": "David Zucker",
+    "Rotten Tomatoes Rating": 37,
+    "IMDB Rating": 5,
+    "IMDB Votes": 39542
+  },
+  {
+    "Title": "Legends of the Fall",
+    "Production Budget": 30000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Drama",
+    "Director": "Edward Zwick",
+    "Rotten Tomatoes Rating": 63,
+    "IMDB Rating": 7.1,
+    "IMDB Votes": 39815
+  },
+  {
+    "Title": "Monsters, Inc.",
+    "Production Budget": 115000000,
+    "Distributor": "Walt Disney Pictures",
+    "Major Genre": "Adventure",
+    "Director": "David Silverman",
+    "Rotten Tomatoes Rating": 95,
+    "IMDB Rating": 7.4,
+    "IMDB Votes": 39908
+  },
+  {
+    "Title": "Miss Congeniality",
+    "Production Budget": 45000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Comedy",
+    "Director": "Donald Petrie",
+    "Rotten Tomatoes Rating": 41,
+    "IMDB Rating": 6.1,
+    "IMDB Votes": 42323
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Production Budget": 45000000,
+    "Distributor": "Miramax/Dimension",
+    "Major Genre": "Comedy",
+    "Director": "David Zucker",
+    "Rotten Tomatoes Rating": 37,
+    "IMDB Rating": 5.4,
+    "IMDB Votes": 42829
+  },
+  {
+    "Title": "Law Abiding Citizen",
+    "Production Budget": 53000000,
+    "Distributor": "Overture Films",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "F. Gary Gray",
+    "Rotten Tomatoes Rating": 25,
+    "IMDB Rating": 7.2,
+    "IMDB Votes": 45577
+  },
+  {
+    "Title": "I Now Pronounce You Chuck and Larry",
+    "Production Budget": 85000000,
+    "Distributor": "Universal",
+    "Major Genre": "Comedy",
+    "Director": "Dennis Dugan",
+    "Rotten Tomatoes Rating": 14,
+    "IMDB Rating": 6.1,
+    "IMDB Votes": 46347
+  },
+  {
+    "Title": "The Negotiator",
+    "Production Budget": 50000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Action",
+    "Director": "F. Gary Gray",
+    "Rotten Tomatoes Rating": 81,
+    "IMDB Rating": 7.2,
+    "IMDB Votes": 46511
+  },
+  {
+    "Title": "The Chronicles of Riddick",
+    "Production Budget": 120000000,
+    "Distributor": "Universal",
+    "Major Genre": "Adventure",
+    "Director": "David Twohy",
+    "Rotten Tomatoes Rating": 29,
+    "IMDB Rating": 6.4,
+    "IMDB Votes": 49383
+  },
+  {
+    "Title": "The Constant Gardener",
+    "Production Budget": 25500000,
+    "Distributor": "Focus Features",
+    "Major Genre": "Drama",
+    "Director": "Fernando Meirelles",
+    "Rotten Tomatoes Rating": 83,
+    "IMDB Rating": 7.6,
+    "IMDB Votes": 50763
+  },
+  {
+    "Title": "Secret Window",
+    "Production Budget": 40000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "David Koepp",
+    "Rotten Tomatoes Rating": 46,
+    "IMDB Rating": 6.5,
+    "IMDB Votes": 53868
+  },
+  {
+    "Title": "Happy Gilmore",
+    "Production Budget": 10000000,
+    "Distributor": "Universal",
+    "Major Genre": "Comedy",
+    "Director": "Dennis Dugan",
+    "Rotten Tomatoes Rating": 58,
+    "IMDB Rating": 6.9,
+    "IMDB Votes": 54111
+  },
+  {
+    "Title": "Pitch Black",
+    "Production Budget": 23000000,
+    "Distributor": "USA Films",
+    "Major Genre": "Horror",
+    "Director": "David Twohy",
+    "Rotten Tomatoes Rating": 55,
+    "IMDB Rating": 7,
+    "IMDB Votes": 55217
+  },
+  {
+    "Title": "Glory",
+    "Production Budget": 18000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Action",
+    "Director": "Edward Zwick",
+    "Rotten Tomatoes Rating": 93,
+    "IMDB Rating": 8,
+    "IMDB Votes": 56427
+  },
+  {
+    "Title": "Madagascar",
+    "Production Budget": 75000000,
+    "Distributor": "Dreamworks SKG",
+    "Major Genre": "Adventure",
+    "Director": "Eric Darnell",
+    "Rotten Tomatoes Rating": 55,
+    "IMDB Rating": 6.6,
+    "IMDB Votes": 56480
+  },
+  {
+    "Title": "Swordfish",
+    "Production Budget": 80000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Action",
+    "Director": "Dominic Sena",
+    "Rotten Tomatoes Rating": 25,
+    "IMDB Rating": 6.3,
+    "IMDB Votes": 57952
+  },
+  {
+    "Title": "The Bridge on the River Kwai",
+    "Production Budget": 3000000,
+    "Distributor": "Sony/Columbia",
+    "Major Genre": "Drama",
+    "Director": "David Lean",
+    "Rotten Tomatoes Rating": 95,
+    "IMDB Rating": 8.4,
+    "IMDB Votes": 58641
+  },
+  {
+    "Title": "Hostel",
+    "Production Budget": 4800000,
+    "Distributor": "Lionsgate",
+    "Major Genre": "Horror",
+    "Director": "Eli Roth",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 5.7,
+    "IMDB Votes": 64642
+  },
+  {
+    "Title": "Snakes on a Plane",
+    "Production Budget": 33000000,
+    "Distributor": "New Line",
+    "Major Genre": "Thriller/Suspense",
+    "Director": "David R. Ellis",
+    "Rotten Tomatoes Rating": 68,
+    "IMDB Rating": 6,
+    "IMDB Votes": 65841
+  },
+  {
+    "Title": "Three Kings",
+    "Production Budget": 48000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Action",
+    "Director": "David O. Russell",
+    "Rotten Tomatoes Rating": 94,
+    "IMDB Rating": 7.3,
+    "IMDB Votes": 68726
+  },
+  {
+    "Title": "Jumper",
+    "Production Budget": 82500000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Adventure",
+    "Director": "Doug Liman",
+    "Rotten Tomatoes Rating": 17,
+    "IMDB Rating": 5.9,
+    "IMDB Votes": 69161
+  },
+  {
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Production Budget": 250000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Adventure",
+    "Director": "David Yates",
+    "Rotten Tomatoes Rating": 83,
+    "IMDB Rating": 7.3,
+    "IMDB Votes": 73720
+  },
+  {
+    "Title": "The Italian Job",
+    "Production Budget": 60000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Adventure",
+    "Director": "F. Gary Gray",
+    "Rotten Tomatoes Rating": 73,
+    "IMDB Rating": 6.9,
+    "IMDB Votes": 76835
+  },
+  {
+    "Title": "Lawrence of Arabia",
+    "Production Budget": 15000000,
+    "Distributor": "Sony Pictures",
+    "Major Genre": "Adventure",
+    "Director": "David Lean",
+    "Rotten Tomatoes Rating": 98,
+    "IMDB Rating": 8.6,
+    "IMDB Votes": 79421
+  },
+  {
+    "Title": "The Godfather: Part III",
+    "Production Budget": 54000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "Drama",
+    "Director": "Francis Ford Coppola",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 7.6,
+    "IMDB Votes": 82977
+  },
+  {
+    "Title": "Mulholland Drive",
+    "Production Budget": 15000000,
+    "Distributor": "Universal",
+    "Major Genre": "Drama",
+    "Director": "David Lynch",
+    "Rotten Tomatoes Rating": 81,
+    "IMDB Rating": 7.9,
+    "IMDB Votes": 103026
+  },
+  {
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Production Budget": 150000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Adventure",
+    "Director": "David Yates",
+    "Rotten Tomatoes Rating": 78,
+    "IMDB Rating": 7.4,
+    "IMDB Votes": 104074
+  },
+  {
+    "Title": "The Last Samurai",
+    "Production Budget": 120000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Action",
+    "Director": "Edward Zwick",
+    "Rotten Tomatoes Rating": 65,
+    "IMDB Rating": 7.8,
+    "IMDB Votes": 106002
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Production Budget": 72500000,
+    "Distributor": "20th Century Fox",
+    "Major Genre": "Comedy",
+    "Director": "David Silverman",
+    "Rotten Tomatoes Rating": 89,
+    "IMDB Rating": 7.6,
+    "IMDB Votes": 117656
+  },
+  {
+    "Title": "Blood Diamond",
+    "Production Budget": 100000000,
+    "Distributor": "Warner Bros.",
+    "Major Genre": "Action",
+    "Director": "Edward Zwick",
+    "Rotten Tomatoes Rating": 62,
+    "IMDB Rating": 8,
+    "IMDB Votes": 118925
+  },
+  {
+    "Title": "The Bourne Identity",
+    "Production Budget": 60000000,
+    "Distributor": "Universal",
+    "Major Genre": "Action",
+    "Director": "Doug Liman",
+    "Rotten Tomatoes Rating": 82,
+    "IMDB Rating": 7.7,
+    "IMDB Votes": 122597
+  },
+  {
+    "Title": "Hot Fuzz",
+    "Production Budget": 16000000,
+    "Distributor": "Focus Features",
+    "Major Genre": "Comedy",
+    "Director": "Edgar Wright",
+    "Rotten Tomatoes Rating": 91,
+    "IMDB Rating": 8,
+    "IMDB Votes": 129779
+  },
+  {
+    "Title": "The Godfather: Part II",
+    "Production Budget": 13000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "",
+    "Director": "Francis Ford Coppola",
+    "Rotten Tomatoes Rating": "",
+    "IMDB Rating": 9,
+    "IMDB Votes": 245271
+  },
+  {
+    "Title": "The Godfather",
+    "Production Budget": 7000000,
+    "Distributor": "Paramount Pictures",
+    "Major Genre": "",
+    "Director": "Francis Ford Coppola",
+    "Rotten Tomatoes Rating": 100,
+    "IMDB Rating": 9.2,
+    "IMDB Votes": 411088
+  }
+]
